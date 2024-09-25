@@ -1,0 +1,13 @@
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+    {{ partial "common/head" . }}
+
+<body>
+    {{ partial "common/header" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partial "common/footer" . }}
+
+    {{ partial "common/scripts" . }}
+    {{ block "scripts" . }}{{ end }}
+    
+</body>
+</html>
