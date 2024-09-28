@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/test/</guid>
+      <description>&lt;p&gt;Est velit aliquip ipsum et elit aliquip deserunt tempor esse. Mollit est aute magna Lorem ea consequat enim cillum pariatur voluptate proident labore voluptate enim. Exercitation aliquip adipisicing ullamco qui veniam cillum irure enim do voluptate. Est et aliquip tempor est deserunt velit ad et adipisicing ullamco eiusmod dolor est pariatur. Aliquip occaecat culpa in consectetur qui fugiat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?q=80&amp;amp;w=3540&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;ixlib=rb-4.0.3&amp;amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&#34; alt=&#34;Laptop Table&#34;&gt;&#xA;Deserunt non eu ut aliqua labore incididunt id amet dolore ex eiusmod aute qui ad. Nulla exercitation do dolor ex commodo proident excepteur nisi aliqua quis nostrud officia consectetur qui. Ut aliquip mollit magna aliqua adipisicing. Dolore anim tempor ex in ut ea consequat officia sunt enim quis voluptate eu. Proident aliquip anim ut adipisicing do ut laborum sit ad. Enim ex laboris magna nulla.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

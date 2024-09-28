@@ -1,0 +1,27 @@
+.blog{
+
+}
+.blog-container{
+    max-width: $size-screen-xl;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.blog-title{
+    font-family: 'Inter';
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 80px;
+}
+.blog-items{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+.blog-item{
+    font-family: 'Inter';
+    font-size: 28px;
+    color: #727272;
+}

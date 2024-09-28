@@ -1,4 +1,5 @@
 @import "variables.scss";
+@import "globals.scss";
 
 /* common Start */
 @import "partials/common/header.scss";
@@ -6,7 +7,12 @@
 /* common End */
 
 /* home Start */
-/* home End */
+@import "partials/home/welcome.scss";
+@import "partials/home/about.scss";
+@import "partials/home/projects.scss";
+@import "partials/home/blog.scss";
 
 /* blog Start */
+@import "partials/blog/blog-posts.scss";
+@import "partials/blog/blog-post.scss";
 /* blog End */
